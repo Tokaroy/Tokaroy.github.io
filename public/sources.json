@@ -1,0 +1,404 @@
+[
+  {
+    "id": "discord-breach-oct2025",
+    "title": "Update on a Security Incident Involving Third-Party Customer Service",
+    "author": "Discord",
+    "date": "2025-10-03",
+    "url": "https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service",
+    "category": "official",
+    "tags": [
+      "breach",
+      "5CA",
+      "incident-details",
+      "vendor-risk"
+    ],
+    "sections": [
+      "1.0",
+      "2.0"
+    ],
+    "keyInsight": "70,000 users affected, government IDs stolen via 5CA vendor compromise",
+    "citation": "Discord. (2025, October 3). Update on a security incident involving third-party customer service. https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service",
+    "description": "Official breach disclosure detailing the October 2025 incident where third-party vendor 5CA was compromised, exposing user government IDs and billing information."
+  },
+  {
+    "id": "discord-age-verify-feb2026",
+    "title": "What's Changing for UK and Australian Users",
+    "author": "Discord",
+    "date": "2026-02-09",
+    "url": "https://support.discord.com/hc/en-us/articles/33362401287959-What-s-Changing-for-UK-and-Australian-Users",
+    "category": "official",
+    "tags": [
+      "age-verification",
+      "UK-OSA",
+      "Australia",
+      "compliance",
+      "k-ID",
+      "Persona"
+    ],
+    "sections": [
+      "1.0",
+      "2.0"
+    ],
+    "keyInsight": "Global age verification rollout using k-ID and Persona for UK OSA compliance",
+    "citation": "Discord. (2026, February 9). What's changing for UK and Australian users. Discord Support. https://support.discord.com/hc/en-us/articles/33362401287959-What-s-Changing-for-UK-and-Australian-Users",
+    "description": "Official announcement of age verification requirements for UK and Australian users, including technical details about face scan and ID verification methods using third-party vendors k-ID and Persona."
+  },
+  {
+    "id": "5ca-holding-statement",
+    "title": "Holding Statement Regarding Security Incident",
+    "author": "5CA",
+    "date": "2025-10-27",
+    "url": "https://5ca.com/blog/holding-statement-security-incident/",
+    "category": "official",
+    "tags": [
+      "breach",
+      "5CA",
+      "vendor-response",
+      "incident-details"
+    ],
+    "sections": [
+      "2.0"
+    ],
+    "keyInsight": "Vendor denies responsibility, claims \"human error of single employee\" occurred outside their systems",
+    "citation": "5CA. (2025, October 27). Holding statement regarding security incident. https://5ca.com/blog/holding-statement-security-incident/",
+    "description": "5CA's official response to the breach, attempting to minimize responsibility by attributing the incident to individual employee error rather than systemic security failures."
+  },
+  {
+    "id": "pc-gamer-eff-interview",
+    "title": "'There's no reason for Discord to comply in advance' with social media age verification laws instead of 'fighting for their users' says EFF expert",
+    "author": "Malik Alajaji",
+    "date": "2026-02-12",
+    "url": "https://www.pcgamer.com/gaming-industry/theres-no-reason-for-discord-to-comply-in-advance-with-social-media-age-verification-laws-instead-of-fighting-for-their-users-says-eff-expert/",
+    "category": "news",
+    "tags": [
+      "EFF",
+      "age-verification",
+      "compliance-theater",
+      "UK-OSA",
+      "Australia",
+      "legal-analysis"
+    ],
+    "sections": [
+      "2.0",
+      "4.0"
+    ],
+    "keyInsight": "\"Do not obey in advance\" - Discord applying UK law globally when not required",
+    "citation": "Alajaji, M. (2026, February 12). 'There's no reason for Discord to comply in advance' with social media age verification laws instead of 'fighting for their users' says EFF expert. PC Gamer. https://www.pcgamer.com/gaming-industry/theres-no-reason-for-discord-to-comply-in-advance-with-social-media-age-verification-laws-instead-of-fighting-for-their-users-says-eff-expert/",
+    "description": "EFF expert analysis criticizing Discord for proactively implementing invasive age verification beyond legal requirements, highlighting the \"compliance theater\" phenomenon."
+  },
+  {
+    "id": "techradar-backlash",
+    "title": "'What a great way to kill your community': Discord users are furious about its new age verification checks",
+    "author": "TechRadar",
+    "date": "2026-02-09",
+    "url": "https://www.techradar.com/computing/software/what-a-great-way-to-kill-your-community-discord-users-are-furious-about-its-new-age-verification-checks-and-are-now-hunting-for-alternatives",
+    "category": "news",
+    "tags": [
+      "user-backlash",
+      "age-verification",
+      "reputational-impact",
+      "Nitro-cancellations"
+    ],
+    "sections": [
+      "3.0"
+    ],
+    "keyInsight": "\"What a great way to kill your community\" - user reactions and Nitro cancellations",
+    "citation": "TechRadar. (2026, February 9). 'What a great way to kill your community': Discord users are furious about its new age verification checks. https://www.techradar.com/computing/software/what-a-great-way-to-kill-your-community-discord-users-are-furious-about-its-new-age-verification-checks-and-are-now-hunting-for-alternatives",
+    "description": "Coverage of community backlash against Discord's age verification rollout, including subscription cancellations and migration to alternative platforms."
+  },
+  {
+    "id": "malwarebytes-breach",
+    "title": "Discord warns users after data stolen in third-party breach",
+    "author": "Danny Bradbury",
+    "date": "2025-10-07",
+    "url": "https://www.malwarebytes.com/blog/news/2025/10/discord-warns-users-after-data-stolen-in-third-party-breach",
+    "category": "technical",
+    "tags": [
+      "breach",
+      "5CA",
+      "technical-details",
+      "threat-actor",
+      "Scattered-Lapsu"
+    ],
+    "sections": [
+      "2.0"
+    ],
+    "keyInsight": "Scattered Lapsu Hunters attribution; Zendesk breach claim; technical details of compromise",
+    "citation": "Bradbury, D. (2025, October 7). Discord warns users after data stolen in third-party breach. Malwarebytes. https://www.malwarebytes.com/blog/news/2025/10/discord-warns-users-after-data-stolen-in-third-party-breach",
+    "description": "Technical analysis of the October 2025 breach, including threat actor attribution to \"Scattered Lapsu Hunters\" and details of the attack vector through 5CA systems."
+  },
+  {
+    "id": "ampcus-severity",
+    "title": "Discord Customer Support Data Breach via Third-Party Vendor",
+    "author": "Ampcus Cyber",
+    "date": "2025-10-08",
+    "url": "https://www.ampcuscyber.com/shadowopsintel/discord-customer-support-data-breach-via-third-party-vendor/",
+    "category": "technical",
+    "tags": [
+      "breach",
+      "impact-assessment",
+      "severity",
+      "data-types"
+    ],
+    "sections": [
+      "3.0"
+    ],
+    "keyInsight": "High severity: government IDs, billing info, emails, names exposed",
+    "citation": "Ampcus Cyber. (2025, October 8). Discord customer support data breach via third-party vendor. https://www.ampcuscyber.com/shadowopsintel/discord-customer-support-data-breach-via-third-party-vendor/",
+    "description": "Cybersecurity firm assessment rating the Discord breach as high severity, detailing the types of sensitive data compromised in the incident."
+  },
+  {
+    "id": "foxnews-breach",
+    "title": "Discord confirms vendor breach exposed user IDs in ransom plot",
+    "author": "Kurt Knutsson",
+    "date": "2025-10-19",
+    "url": "https://www.foxnews.com/tech/discord-confirms-vendor-breach-exposed-user-ids-ransom-plot",
+    "category": "news",
+    "tags": [
+      "breach",
+      "5CA",
+      "incident-details",
+      "ransom"
+    ],
+    "sections": [
+      "1.0",
+      "2.0"
+    ],
+    "keyInsight": "Attackers demanded ransom; 70,000 users had government ID photos exposed",
+    "citation": "Knutsson, K. (2025, October 19). Discord confirms vendor breach exposed user IDs in ransom plot. Fox News. https://www.foxnews.com/tech/discord-confirms-vendor-breach-exposed-user-ids-ransom-plot",
+    "description": "News coverage of the Discord breach with focus on the ransom demand and financial motivation behind the attack."
+  },
+  {
+    "id": "arstechnica-backlash",
+    "title": "Discord faces backlash over age checks after data breach exposed 70,000 IDs",
+    "author": "Ashley Belanger",
+    "date": "2026-02-10",
+    "url": "https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/",
+    "category": "news",
+    "tags": [
+      "age-verification",
+      "user-backlash",
+      "privacy",
+      "k-ID",
+      "Persona"
+    ],
+    "sections": [
+      "3.0",
+      "4.0"
+    ],
+    "keyInsight": "Discord expects to lose users; k-ID and Persona vendor relationships examined",
+    "citation": "Belanger, A. (2026, February 10). Discord faces backlash over age checks after data breach exposed 70,000 IDs. Ars Technica. https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/",
+    "description": "In-depth analysis of Discord's age verification expansion, including technical details about k-ID and Persona partnerships, and user exodus concerns."
+  },
+  {
+    "id": "computing-backlash",
+    "title": "Discord faces backlash over age verification",
+    "author": "John Leonard",
+    "date": "2026-02-11",
+    "url": "https://www.computing.co.uk/news/2026/security/discord-faces-backlash-over-age-verification",
+    "category": "news",
+    "tags": [
+      "age-verification",
+      "UK-OSA",
+      "user-backlash",
+      "global-rollout"
+    ],
+    "sections": [
+      "3.0"
+    ],
+    "keyInsight": "Discord rolling out UK OSA compliance globally; Teen-by-Default settings",
+    "citation": "Leonard, J. (2026, February 11). Discord faces backlash over age verification. Computing. https://www.computing.co.uk/news/2026/security/discord-faces-backlash-over-age-verification",
+    "description": "UK-focused coverage of Discord's global age verification rollout, highlighting the connection to UK Online Safety Act compliance."
+  },
+  {
+    "id": "eff-age-verify-dangers",
+    "title": "10 (Not So) Hidden Dangers of Age Verification",
+    "author": "Electronic Frontier Foundation",
+    "date": "2025-12-08",
+    "url": "https://www.eff.org/deeplinks/2025/12/10-not-so-hidden-dangers-age-verification",
+    "category": "policy",
+    "tags": [
+      "EFF",
+      "age-verification",
+      "privacy-risks",
+      "discrimination",
+      "biometric-risks"
+    ],
+    "sections": [
+      "3.0",
+      "4.0"
+    ],
+    "keyInsight": "Comprehensive analysis of discriminatory impacts and biometric privacy risks",
+    "citation": "Electronic Frontier Foundation. (2025, December 8). 10 (not so) hidden dangers of age verification. https://www.eff.org/deeplinks/2025/12/10-not-so-hidden-dangers-age-verification",
+    "description": "EFF's detailed examination of age verification harms, including exclusion of marginalized communities, biometric data risks, and anonymity erosion."
+  },
+  {
+    "id": "eff-discord-voluntary",
+    "title": "Discord Voluntarily Pushes Mandatory Age Verification Despite Recent Data Breach",
+    "author": "Electronic Frontier Foundation",
+    "date": "2026-02-13",
+    "url": "https://www.eff.org/deeplinks/2026/02/discord-voluntarily-pushes-mandatory-age-verification-despite-recent-data-breach",
+    "category": "policy",
+    "tags": [
+      "EFF",
+      "age-verification",
+      "compliance-theater",
+      "Discord",
+      "privacy-risks"
+    ],
+    "sections": [
+      "4.0"
+    ],
+    "keyInsight": "Discord expanding age verification globally despite October 2025 breach",
+    "citation": "Electronic Frontier Foundation. (2026, February 13). Discord voluntarily pushes mandatory age verification despite recent data breach. https://www.eff.org/deeplinks/2026/02/discord-voluntarily-pushes-mandatory-age-verification-despite-recent-data-breach",
+    "description": "EFF analysis specifically calling out Discord for voluntarily implementing invasive age verification after proving unable to secure such data."
+  },
+  {
+    "id": "new-america-privacy-preserving",
+    "title": "Age Verification to Protect Youth Online: Using Zero Knowledge Proofs",
+    "author": "Sarah Forland",
+    "date": "2025-07-17",
+    "url": "https://newamerica.org/oti/briefs/exploring-privacy-preserving-age-verification/",
+    "category": "policy",
+    "tags": [
+      "privacy-preserving",
+      "solutions",
+      "digital-credentials",
+      "zero-knowledge",
+      "policy-reform"
+    ],
+    "sections": [
+      "5.0"
+    ],
+    "keyInsight": "Government-issued digital credentials + zero-knowledge proofs as viable alternatives",
+    "citation": "Forland, S. (2025, July 17). Age verification to protect youth online: Using zero knowledge proofs. New America. https://newamerica.org/oti/briefs/exploring-privacy-preserving-age-verification/",
+    "description": "Policy research on privacy-preserving age verification methods, including digital credentials and zero-knowledge proofs, with recommendations for policymakers."
+  },
+  {
+    "id": "internet-society-brief",
+    "title": "Policy Brief: Age Restrictions and Online Safety",
+    "author": "Internet Society",
+    "date": "2025-12-04",
+    "url": "https://www.internetsociety.org/resources/policybriefs/2025/age-restrictions-and-online-safety/",
+    "category": "policy",
+    "tags": [
+      "privacy",
+      "data-minimization",
+      "best-practices",
+      "industry-standards"
+    ],
+    "sections": [
+      "4.0",
+      "5.0"
+    ],
+    "keyInsight": "No fully privacy-preserving age verification method exists; data minimization essential",
+    "citation": "Internet Society. (2025, December 4). Policy brief: Age restrictions and online safety. https://www.internetsociety.org/resources/policybriefs/2025/age-restrictions-and-online-safety/",
+    "description": "Industry analysis concluding that current age verification methods cannot fully preserve privacy, emphasizing data minimization principles."
+  },
+  {
+    "id": "brave-zkp-limits",
+    "title": "The Limits of Zero-Knowledge for Age-Verification",
+    "author": "Sof\u00eda Celi, Kyle Den Hartog, Hamed Haddadi",
+    "date": "2025-11-05",
+    "url": "https://brave.com/blog/zkp-age-verification-limits/",
+    "category": "technical",
+    "tags": [
+      "zero-knowledge",
+      "technical-limitations",
+      "privacy-preserving",
+      "solutions"
+    ],
+    "sections": [
+      "2.0",
+      "5.0"
+    ],
+    "keyInsight": "ZKPs are \"far from a silver bullet\"; significant implementation challenges exist",
+    "citation": "Celi, S., Den Hartog, K., & Haddadi, H. (2025, November 5). The limits of zero-knowledge for age-verification. Brave Research. https://brave.com/blog/zkp-age-verification-limits/",
+    "description": "Technical analysis of zero-knowledge proof limitations for age verification, providing realistic assessment of privacy-preserving alternatives."
+  },
+  {
+    "id": "cmu-privacy-protection",
+    "title": "Privacy vs. Protection: The Tradeoffs of Age Verification",
+    "author": "Udi Akolkar",
+    "date": "2025-09-23",
+    "url": "https://cmuplr.org/2025/09/23/privacy-vs-protection-the-tradeoffs-of-age-verification/",
+    "category": "academic",
+    "tags": [
+      "constitutional-analysis",
+      "parental-controls",
+      "alternatives",
+      "solutions"
+    ],
+    "sections": [
+      "5.0"
+    ],
+    "keyInsight": "Constitutional analysis of age verification; parental controls as less restrictive alternative",
+    "citation": "Akolkar, U. (2025, September 23). Privacy vs. protection: The tradeoffs of age verification. Carnegie Mellon Policy and Law Review. https://cmuplr.org/2025/09/23/privacy-vs-protection-the-tradeoffs-of-age-verification/",
+    "description": "Academic analysis of constitutional and privacy tradeoffs, proposing parental controls and digital literacy as alternative approaches."
+  },
+  {
+    "id": "eltaher-digital-loophole",
+    "title": "The Digital Loophole: Evaluating the Effectiveness of Child Age Verification Methods on Social Media",
+    "author": "Eltaher, F., Gajula, R. K., Miralles-Pechu\u00e1n, L., Thorpe, C., & McKeever, S.",
+    "date": "2025-02-27",
+    "url": "https://arrow.tudublin.ie/scschcomcon/442/",
+    "category": "academic",
+    "tags": [
+      "age-verification",
+      "effectiveness",
+      "reliability",
+      "privacy",
+      "security",
+      "children"
+    ],
+    "sections": [
+      "2.0",
+      "5.0"
+    ],
+    "keyInsight": "Current methods \"failed to adequately meet reliability, privacy, and security requirements\"",
+    "citation": "Eltaher, F., Gajula, R. K., Miralles-Pechu\u00e1n, L., Thorpe, C., & McKeever, S. (2025). The digital loophole: Evaluating the effectiveness of child age verification methods on social media. Technological University Dublin. https://doi.org/10.21427/rj5h-9450",
+    "description": "Peer-reviewed research demonstrating that existing age verification technologies fail to meet basic reliability, privacy, and security standards for protecting children online."
+  },
+  {
+    "id": "mit-compliance-security",
+    "title": "Convergence and Divergence of Regulatory Compliance and Cybersecurity",
+    "author": "Angelica Marotta, Stuart Madnick",
+    "date": "2020-11-01",
+    "url": "http://web.mit.edu/smadnick/www/wp/2020-31.pdf",
+    "category": "academic",
+    "tags": [
+      "compliance-theater",
+      "regulatory-risk",
+      "false-sense-of-security",
+      "implications"
+    ],
+    "sections": [
+      "4.0"
+    ],
+    "keyInsight": "\"False sense of security\" from compliance - compliance mandates can increase actual risk",
+    "citation": "Marotta, A., & Madnick, S. (2020). Convergence and divergence of regulatory compliance and cybersecurity (MIT Working Paper CISL# 2020-31). http://web.mit.edu/smadnick/www/wp/2020-31.pdf",
+    "description": "Academic research on how regulatory compliance can create security theater, where organizations meet regulatory checkboxes while actual security posture deteriorates."
+  },
+  {
+    "id": "nist-supply-chain",
+    "title": "NIST Cyber Supply Chain Risk Management",
+    "author": "NIST",
+    "date": "2025",
+    "url": "https://csrc.nist.gov/projects/supply-chain-risk-management",
+    "category": "technical",
+    "tags": [
+      "vendor-risk",
+      "supply-chain",
+      "NIST-800-161",
+      "solutions",
+      "best-practices"
+    ],
+    "sections": [
+      "4.0",
+      "5.0"
+    ],
+    "keyInsight": "Third-party vendor risk is a systemic issue requiring proactive risk management frameworks",
+    "citation": "National Institute of Standards and Technology. (2025). NIST cyber supply chain risk management. https://csrc.nist.gov/projects/supply-chain-risk-management",
+    "description": "NIST guidance on managing third-party vendor risks, providing frameworks for assessing and mitigating supply chain security vulnerabilities."
+  }
+]
