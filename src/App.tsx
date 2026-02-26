@@ -232,7 +232,7 @@ function App() {
     });
 
     return result;
-  }, [filters, sortBy]);
+  }, [activeSources, filters, sortBy]);
 
   const activeFilterCount = filters.categories.length + 
     filters.tags.length + 
