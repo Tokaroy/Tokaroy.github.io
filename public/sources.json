@@ -1,5 +1,28 @@
 [
   {
+    "id": "src-19c98014d77",
+    "title": "Discord Has Stopped Using Peter Thiel-Backed Software Tied to U.S. Surveillance",
+    "author": "Them",
+    "date": "2026-02-24",
+    "url": "https://www.them.us/story/discord-has-stopped-using-peter-thiel-backed-software-tied-to-us-surveillance",
+    "category": "news",
+    "tags": [
+      "Persona",
+      "vendor-risk",
+      "surveillance",
+      "privacy",
+      "k-ID",
+      "compliance-theater"
+    ],
+    "sections": [
+      "2.0",
+      "4.0"
+    ],
+    "keyInsight": "Discord cut ties with Persona after 30 days when researchers revealed 269 undisclosed surveillance checks including government watchlist comparisons",
+    "citation": "Them. (2026, February 24). Discord has stopped using Peter Thiel-backed software tied to U.S. surveillance. https://www.them.us/story/discord-has-stopped-using-peter-thiel-backed-software-tied-to-us-surveillance",
+    "description": "Investigative report revealing Discord\\'s failed partnership with Persona Identities, which performed undisclosed surveillance functions beyond age verification, including government watch list screening and adverse media checks."
+  },
+  {
     "id": "discord-breach-oct2025",
     "title": "Update on a Security Incident Involving Third-Party Customer Service",
     "author": "Discord",
@@ -298,7 +321,7 @@
   {
     "id": "brave-zkp-limits",
     "title": "The Limits of Zero-Knowledge for Age-Verification",
-    "author": "Sof\u00eda Celi, Kyle Den Hartog, Hamed Haddadi",
+    "author": "Sofía Celi, Kyle Den Hartog, Hamed Haddadi",
     "date": "2025-11-05",
     "url": "https://brave.com/blog/zkp-age-verification-limits/",
     "category": "technical",
@@ -339,7 +362,7 @@
   {
     "id": "eltaher-digital-loophole",
     "title": "The Digital Loophole: Evaluating the Effectiveness of Child Age Verification Methods on Social Media",
-    "author": "Eltaher, F., Gajula, R. K., Miralles-Pechu\u00e1n, L., Thorpe, C., & McKeever, S.",
+    "author": "Eltaher, F., Gajula, R. K., Miralles-Pechuán, L., Thorpe, C., & McKeever, S.",
     "date": "2025-02-27",
     "url": "https://arrow.tudublin.ie/scschcomcon/442/",
     "category": "academic",
@@ -356,7 +379,7 @@
       "5.0"
     ],
     "keyInsight": "Current methods \"failed to adequately meet reliability, privacy, and security requirements\"",
-    "citation": "Eltaher, F., Gajula, R. K., Miralles-Pechu\u00e1n, L., Thorpe, C., & McKeever, S. (2025). The digital loophole: Evaluating the effectiveness of child age verification methods on social media. Technological University Dublin. https://doi.org/10.21427/rj5h-9450",
+    "citation": "Eltaher, F., Gajula, R. K., Miralles-Pechuán, L., Thorpe, C., & McKeever, S. (2025). The digital loophole: Evaluating the effectiveness of child age verification methods on social media. Technological University Dublin. https://doi.org/10.21427/rj5h-9450",
     "description": "Peer-reviewed research demonstrating that existing age verification technologies fail to meet basic reliability, privacy, and security standards for protecting children online."
   },
   {
