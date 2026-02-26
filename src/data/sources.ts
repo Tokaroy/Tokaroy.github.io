@@ -134,6 +134,19 @@ export const seedSources: Source[] = [
     citation: 'Leonard, J. (2026, February 11). Discord faces backlash over age verification. Computing. https://www.computing.co.uk/news/2026/security/discord-faces-backlash-over-age-verification',
     description: 'UK-focused coverage of Discord\'s global age verification rollout, highlighting the connection to UK Online Safety Act compliance.'
   },
+  {
+    id: 'src-19c98014d77',
+    title: 'Discord Has Stopped Using Peter Thiel-Backed Software Tied to U.S. Surveillance',
+    author: 'Them',
+    date: '2026-02-24',
+    url: 'https://www.them.us/story/discord-has-stopped-using-peter-thiel-backed-software-tied-to-us-surveillance',
+    category: 'news',
+    tags: ['Persona', 'vendor-risk', 'surveillance', 'privacy', 'k-ID', 'compliance-theater'],
+    sections: ['2.0', '4.0'],
+    keyInsight: 'Discord cut ties with Persona after 30 days when researchers revealed 269 undisclosed surveillance checks including government watchlist comparisons',
+    citation: 'Them. (2026, February 24). Discord has stopped using Peter Thiel-backed software tied to U.S. surveillance. https://www.them.us/story/discord-has-stopped-using-peter-thiel-backed-software-tied-to-us-surveillance',
+    description: 'Investigative report revealing Discord\'s failed partnership with Persona Identities, which performed undisclosed surveillance functions beyond age verification, including government watch list screening and adverse media checks.'
+  },
 
   // POLICY/LEGAL SOURCES
   {
