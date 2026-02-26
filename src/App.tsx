@@ -26,16 +26,17 @@ import { Textarea } from '@/components/ui/textarea';
 type SortOption = 'relevance' | 'date-newest' | 'date-oldest' | 'author';
 
 function App() {
-  const [filters, setFilters] = useState<FilterState>({
-    search: '',
-    categories: [],
-    tags: [],
-    sections: []
-  });
+  const emptyFilters = (): FilterState => ({ search: '', categories: [], tags: [], sections: [] });
+  const [filters, setFilters] = useState<FilterState>(emptyFilters());
   const [sortBy, setSortBy] = useState<SortOption>('relevance');
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
 
   const [viewMode, setViewMode] = useState<'official' | 'draft'>('official');
+
+  // Reset filters when switching between Official/Draft so the page never boots into a confusing filtered state.
+  useEffect(() => {
+    setFilters(emptyFilters());
+  }, [viewMode]);
   const [officialSources, setOfficialSources] = useState<Source[]>([]);
   const [draftSources, setDraftSources] = useState<Source[]>(() => loadDraftSources());
 
